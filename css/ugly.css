@@ -1,0 +1,31 @@
+body{
+  background-color: #a25203;
+}
+
+.init {
+    font-weight: bold;
+    font-size: 50px;
+  }
+
+.meow {
+    color: chartreuse;
+
+  }
+
+.Garfield {
+    color: peachpuff;
+
+  }
+
+.Scooby {
+    color: red;
+  }
+
+.Arf {
+    color: cyan;
+  }
+
+  p {
+    font-size: 45px;
+  }
+}

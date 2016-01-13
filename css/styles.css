@@ -1,30 +1,31 @@
-body {
-  background-color: #e9f4f4;
-}
+body{
+    background-color: #e9f4f4;
+  }
 
 p.init {
-  font-weight: bold;
-  font-size: 24px;
-}
+    font-weight: bold;
+    font-size: 24px;
+  }
 
-.Meow {
-  color: #cc6600;
+.meow {
+    color: #cc6600;
+    font-weight: bold;
+  }
 
-}
+.garfield {
+    color: #cc6600;
 
-.Garfield {
-  color: #cc6600;
+  }
 
-}
+.scooby {
+    color: #bf00ff;
+  }
 
-.Scooby {
-  color: #bf00ff;
-}
+.arf {
+    color: #bf00ff;
+    font-weight: bold;
+  }
 
-.Arf {
-  color: #bf00ff;
-}
-
-p {
-  font-size: 20px;
-}
+p.boring {
+    font-size: 20px;
+  }
